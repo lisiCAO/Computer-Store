@@ -5,7 +5,7 @@ public class Store {
 	
 	public static void main(String[] args) {
 		scanner = new Scanner(System.in);
-		System.out.println("Welcome to Pargol's Computer Store!");
+		System.out.println("Welcome to Lisi's Computer Store!");
 		
 		//set inventory size
 		int maxComputers = 0;
